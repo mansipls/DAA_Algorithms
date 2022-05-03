@@ -10,6 +10,8 @@ Sorting Algorithms in C language
 Searching Algorithm:
 1. Binary Search
 
+Greedy Algorithm:
+1. Fractional Knapsack
 
 Minimum Spanning Tree:
 1. Prims Algorithms
