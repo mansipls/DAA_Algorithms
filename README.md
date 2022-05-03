@@ -9,3 +9,7 @@ Sorting Algorithms in C language
 
 Searching Algorithm:
 1. Binary Search
+
+
+Minimum Spanning Tree:
+1. Prims Algorithms
