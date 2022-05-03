@@ -12,6 +12,4 @@ Searching Algorithm:
 
 Greedy Algorithm:
 1. Fractional Knapsack
-
-Minimum Spanning Tree:
-1. Prims Algorithms
+2. Prims Algorithm
