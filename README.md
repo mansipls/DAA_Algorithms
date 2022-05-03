@@ -5,3 +5,7 @@ Sorting Algorithms in C language
 2. Bubble Sort
 3. Insertion Sort
 4. Quick Sort
+5. Merge Sort
+
+Searching Algorithm:
+1. Binary Search
