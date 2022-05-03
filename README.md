@@ -12,4 +12,4 @@ Searching Algorithm:
 
 Greedy Algorithm:
 1. Fractional Knapsack
-2. Prims Algorithm
+2. Prim's Algorithm
