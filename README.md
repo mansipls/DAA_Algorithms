@@ -10,6 +10,6 @@ Sorting Algorithms in C language
 Searching Algorithm:
 1. Binary Search
 
-Greedy Algorithm:
+Greedy Algorithms:
 1. Fractional Knapsack
 2. Prim's Algorithm
